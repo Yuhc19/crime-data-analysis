@@ -1,8 +1,6 @@
 # crime-data-analysis
 
-Trend analysis, collaboration project between:
-Tiffany Bergett
-Jesus Acevedo
+Crime data analysis, collaboration project between: Tiffany Bergett and Jesus Acevedo
 
 Data set originated from LAPD: https://data.lacity.org/Public-Safety/Arrest-Data-from-2020-to-Present/amvf-fr72/about_data
 
